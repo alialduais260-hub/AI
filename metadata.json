@@ -1,0 +1,6 @@
+{
+  "name": "Logistic Regression Mining Lab",
+  "description": "معمل تنقيب البيانات الشامل لخوارزمية الانحدار اللوجستي: أكواد المعالجة لقاعدتي بيانات (الاحتيال المصرفي وأمراض القلب)، الرسوم التفاعلية، شروحات SHAP، تحسين العتبة، العرض التقديمي الأكاديمي والبيانات المعالجة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
